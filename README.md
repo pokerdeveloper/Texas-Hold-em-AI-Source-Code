@@ -1,5 +1,5 @@
 德州扑克，德州AI，德州源码，德州扑克源码
-德州AI，德州人工智能，德州1对多最强AI，有AI核心算法和最强AI模型，可以在全球多个德州平台上进行验证；出全套AI源码，以及AI训练模型；联系telegram：@xuzongbin001； 邮箱：ttpoker733@gmail.com
+德州AI，德州人工智能，德州1对多最强AI，有AI核心算法和最强AI模型，可以在全球多个德州平台上进行验证；出全套AI源码，以及AI训练模型；联系Telegram：@xuzongbin001； 邮箱：ttpoker733@gmail.com
 
 
 <img width="1743" height="1121" alt="92FFF1AD24528E37A48A3BDF3BF8DE13" src="https://github.com/user-attachments/assets/60f8056b-94c6-4189-b969-2a5c341015bb" /># Texas-Hold-em-Poker-Source-Code
